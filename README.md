@@ -1,2 +1,2 @@
-# test3 title
+# test3
 Test repo for bootcamp
